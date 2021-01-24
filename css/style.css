@@ -17,7 +17,7 @@
 }
 
 
-.logo img{width: 65%;}
+.logo img{width: 100%;}
 
 .logos img{ width: 20%;}
 .jacket img{
@@ -38,4 +38,8 @@ h1{
 }
 .main{
     margin-top: 50px;
+}
+.logo{
+height: 50px;
+width: 290px;
 }
